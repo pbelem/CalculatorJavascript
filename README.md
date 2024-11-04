@@ -1,2 +1,1 @@
-# CalculatorJavascript
-Learning place for Javascript
+javascript programming language learning place
